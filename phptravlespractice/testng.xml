@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNGSuite">
+	<suite-files>
+		<suite-file path="./src/test/resources/testdata/suites/phptravlessuit.xml" />
+		
+<!-- 			<suite-file path="./src/test/resources/suites/suite2.xml" /> -->
+<!-- 				<suite-file path="./src/test/resources/suites/suite3.xml" /> -->
+<!-- 					<suite-file -->
+<!-- 						path="./src/test/resources/suites/suite4.xml" /> -->
+	</suite-files>
+</suite> <!-- Suite -->
